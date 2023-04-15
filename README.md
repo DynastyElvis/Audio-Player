@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Github Banner](https://github.com/DynastyElvis/React-Music-Player/blob/master/public/dashboard.png)
+![Github Banner](https://github.com/DynastyElvis/Audio-Player/blob/master/public/Screenshot%20from%202023-04-15%2011-37-57.png)
 
 <!-- my social media links -->
 
